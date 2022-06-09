@@ -1,0 +1,14 @@
+cm:- git clone <git url>
+cm:- git status
+cm:- git diff
+git diff file diffrence
+cm:- git log
+Information file
+cm:- git checkout -b java
+created new branch
+cm:- git commit -m "adding akshay file"
+git add file and commit the msg
+cm:- git checkout main
+switch the branch 
+cm:- git branch 
+display current branch
